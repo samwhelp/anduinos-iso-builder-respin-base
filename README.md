@@ -22,9 +22,9 @@
 | Project |
 | ------- |
 | [anduinos-iso-builder-template](https://github.com/samwhelp/anduinos-iso-builder-template) |
-| + |
+| `+` |
 | [anduinos-iso-builder-remix-base](https://github.com/samwhelp/anduinos-iso-builder-remix-base) |
-| = |
+| `=` |
 | [anduinos-iso-builder-respin-base](https://github.com/samwhelp/anduinos-iso-builder-respin-base) |
 
 

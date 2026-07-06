@@ -12,12 +12,3 @@
 ##
 
 dialog
-
-
-
-
-##
-## ## Package / Apt
-##
-
-apt-file
